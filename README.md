@@ -25,9 +25,9 @@ Built a predictive model to understand factors that influence buying behaviour
 
 ## Result/ Presentation
 
-[British_Airways_Review_Analysis.pptx]( https://github.com/reuel97/British-Airways-Data-Science/blob/main/British_Airways_Review_Analysis.pptx)
+[British_Airways_Review_Analysis.pdf](https://github.com/reuel97/British-Airways-Data-Science/blob/main/British_Airways_Review_Analysis.pdf)
 
-[customer_booking_analysis_presentation.pptx](https://github.com/reuel97/British-Airways-Data-Science/blob/main/customer_booking_analysis_presentation.pptx)
+[customer_booking_analysis_presentation.pdf](https://github.com/reuel97/British-Airways-Data-Science/blob/main/customer_booking_analysis_presentation.pdf)
 
 ## Certification
 
